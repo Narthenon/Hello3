@@ -4,7 +4,7 @@
 * Copyright:
 * Group: Szoft II N
 * Date: 2021-09-06
-* Github: https://github.com/BGeri/
+* Github:  https://github.com/Narthenon
 * Licenc: GNU GPL
 */
 public class App {
